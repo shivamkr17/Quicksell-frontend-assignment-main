@@ -22,7 +22,7 @@ Below are screenshots of the Kanban board showcasing various grouping and sortin
 
 
 
-  ![Grouping by Status](E:\Shivam's_doc\Quicksell-frontend-assignment-main\preview\i1.jpg)
+  ![Grouping by Status](preview\i1.jpg)
 
 ![Grouping by User](E:\Shivam's_doc\Quicksell-frontend-assignment-main\preview\i2.jpg)
 
