@@ -22,9 +22,9 @@ Below are screenshots of the Kanban board showcasing various grouping and sortin
 
 
 
-   (E:\Shivam's_doc\Quicksell-frontend-assignment-main\preview\i1.jpg)
+  ![Grouping by Status](E:\Shivam's_doc\Quicksell-frontend-assignment-main\preview\i1.jpg)
 
-(E:\Shivam's_doc\Quicksell-frontend-assignment-main\preview\i2.jpg)
+![Grouping by User](E:\Shivam's_doc\Quicksell-frontend-assignment-main\preview\i2.jpg)
 
 
-  (E:\Shivam's_doc\Quicksell-frontend-assignment-main\preview\i3.jpg)
+  ![Grouping by Priority](E:\Shivam's_doc\Quicksell-frontend-assignment-main\preview\i3.jpg)
