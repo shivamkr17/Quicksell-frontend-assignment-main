@@ -16,15 +16,3 @@ This Kanban board is a powerful and dynamic tool designed to adapt to various gr
 - **Interactive Display**: The board includes a "display" button to allow users to choose the preferred grouping. The board will then update dynamically based on this selection, providing a smooth and interactive experience.
 
 
-## Screenshots
-
-Below are screenshots of the Kanban board showcasing various grouping and sorting options.
-
-
-
-  ![Grouping by Status](preview\i1.jpg)
-
-![Grouping by User](E:\Shivam's_doc\Quicksell-frontend-assignment-main\preview\i2.jpg)
-
-
-  ![Grouping by Priority](E:\Shivam's_doc\Quicksell-frontend-assignment-main\preview\i3.jpg)
